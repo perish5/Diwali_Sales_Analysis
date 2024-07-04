@@ -1,4 +1,5 @@
 In this project Diwali sales are analyze :
+
 A. Basic Checks of Data
   1. Check is there any null value available
   2.  IF exist then remove the null values
