@@ -1,4 +1,4 @@
-In this project following are done:
+In this project Diwali sales are analyze :
 A. Basic Checks of Data
   1. Check is there any null value available
   2.  IF exist then remove the null values
@@ -11,4 +11,4 @@ B. Exploratory Data Analysis
   2. Show which Age group gender spends more money(Amount).
   3. Show which State have the most Orders.
   4. Show which Maritial Status and Gender spends more money(Amount).
-  5. Which Occupation spends most monet(Amount).
+  5. Which Occupation spends most money(Amount).
